@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Github Browser</string>
+
+    <!-- Errors & messages -->
+    <string name="err_no_internet_connection">
+        No internet connection. Make sure Wi-Fi or cellular data is turned on, then try again.
+    </string>
+    <string name="err_retry_again">Retry again</string>
+
+    <!-- Repositories -->
+    <string name="repos_label">Repositories</string>
+    <string name="mess_repo_created">Repo created successfully</string>
+    <string name="no_repos_label">No Repositories</string>
+
+    <!-- Users -->
+    <string name="users_label">Users</string>
+    <string name="type_user_name_hint">Type user name</string>
+    <string name="fetch_user_label">Fetch User</string>
+    <string name="loading_user_label">Loading…</string>
+    <string name="err_user_name_required">User name required</string>
+
+    <!-- a11y -->
+    <string name="a11y_avatar">User Image</string>
+</resources>

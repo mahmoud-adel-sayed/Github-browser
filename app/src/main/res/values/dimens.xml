@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- Margin sizes -->
+    <dimen name="margin_8dp">8dp</dimen>
+
+    <!-- Text sizes -->
+    <dimen name="m_14_text">14sp</dimen>
+    <dimen name="l_16_text">16sp</dimen>
+
+    <dimen name="user_avatar">75dp</dimen>
+</resources>
